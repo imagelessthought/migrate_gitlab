@@ -2,8 +2,6 @@
 
 # Give SSH URL fro all repos
 # Make sure ACCESS_TOKEN and GITLAB_URL are set in your environment:
-# export ACCESS_TOKEN="your_actual_access_token_here"
-# export GITLAB_URL="https://gitlab.cas.unt.edu"
 
 OUTPUT_FILE="gitlab-repos.txt"
 PER_PAGE=100
